@@ -1,0 +1,4 @@
+#!/bin/sh
+/usr/bin/go-transip-dyndns validate
+/usr/bin/go-transip-dyndns create
+/usr/bin/go-transip-dyndns update
